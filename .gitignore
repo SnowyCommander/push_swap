@@ -1,0 +1,18 @@
+# 빌드 산출물
+obj/
+obj_asan/
+push_swap
+push_swap_asan
+push_swap_asan.dSYM/
+
+# 42 제공 체커 바이너리
+checker_linux
+checker_Mac
+
+# 개인 테스트 도구와 기록
+others/
+failed_cases.txt
+
+# 맥 폴더 정보
+.DS_Store
+._*
